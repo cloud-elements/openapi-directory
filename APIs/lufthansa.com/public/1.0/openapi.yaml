@@ -12,7 +12,7 @@ info:
     - transport
   x-logo:
     backgroundColor: "#FFFFFF"
-    url: https://avatars2.githubusercontent.com/u/22329684?v=4&s=200
+    url: https://cdn.worldvectorlogo.com/logos/lufthansa-2.svg
   x-origin:
     - format: openapi
       url: https://raw.githubusercontent.com/LufthansaOpenAPI/Swagger/master/LH_public_API_swagger_2_0.json
