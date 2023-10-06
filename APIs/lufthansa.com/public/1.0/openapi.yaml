@@ -12,7 +12,7 @@ info:
     - transport
   x-logo:
     backgroundColor: "#FFFFFF"
-    url: https://upload.wikimedia.org/wikipedia/commons/8/82/Lufthansa_Logo_(Crane).svg
+    url: https://cdn.freebiesupply.com/images/large/2x/lufthansa-logo-black-and-white.png
   x-origin:
     - format: openapi
       url: https://raw.githubusercontent.com/LufthansaOpenAPI/Swagger/master/LH_public_API_swagger_2_0.json
